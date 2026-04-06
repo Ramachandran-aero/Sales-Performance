@@ -77,21 +77,27 @@ Business Questions Answered
 **This dashboard was built to answer the following analytical questions:**
 
 Q1. What is the overall total sales, total profit, and profit margin?
+
 To understand overall company performance at a high level.
 
 Q2. How are sales and profit distributed across different regions?
+
 To identify the strongest and weakest performing markets.
 
 Q3. Which product categories contribute the most to revenue?
+
 To guide business investment and stock planning decisions.
 
 Q4. What are the monthly sales trends throughout the year?
+
 To detect seasonality and peak sales periods.
 
 Q5. Which products generate the highest revenue?
+
 To optimize product strategy and focus on best-selling items.
 
 Q6. Who are the top customers based on spending?
+
 To identify premium customers for retention and loyalty strategies.
 
 **Key Performance Indicators (KPIs)**
