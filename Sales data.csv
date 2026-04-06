@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Cost_Price,Region,Sales,Profit
+2000,13-04-2023,Harshit Jain,Power Bank,Electronics,2,1200,800,East,2400,800
+2001,11-03-2024,Himanshu Jain,Handbag,Accessories,3,2000,1200,East,6000,2400
+2002,15-12-2023,Amit Patel,Laptop,Electronics,4,55000,48000,South,220000,28000
+2003,28-09-2023,Aarti Sharma,Power Bank,Electronics,5,1200,800,West,6000,2000
+2004,17-04-2023,Sachin Gupta,Mattress,Furniture,1,18000,13000,North,18000,5000
+2005,13-03-2023,Deepak Yadav,Cookware Set,Home Decor,5,3000,2000,East,15000,5000
+2006,08-07-2023,Anjali Gupta,Microwave,Appliances,4,11000,9000,East,44000,8000
+2007,21-01-2023,Aarti Sharma,Power Bank,Electronics,4,1200,800,North,4800,1600
+2008,13-04-2023,Preeti Das,Mattress,Furniture,4,18000,13000,North,72000,20000
+2009,02-05-2023,Shruti Nair,Keyboard,Electronics,5,900,600,North,4500,1500
+2010,03-08-2023,Girish Mehra,Curtains,Home Decor,4,800,500,West,3200,1200
+2011,27-11-2023,Kavita Joshi,LED Light,Home Decor,5,300,150,West,1500,750
+2012,29-03-2023,Pooja Shah,Table Lamp,Home Decor,4,1200,800,North,4800,1600
+2013,08-01-2024,Sanjay Patel,Desk Lamp,Home Decor,3,1500,900,South,4500,1800
+2014,10-04-2023,Himanshu Jain,Bed,Furniture,4,45000,35000,East,180000,40000
+2015,26-12-2023,Vikram Singh,Blender,Appliances,5,1800,1300,East,9000,2500
+2016,01-06-2023,Shruti Nair,Mouse,Electronics,2,600,400,North,1200,400
+2017,11-05-2023,Aditya Verma,Backpack,Accessories,4,900,600,West,3600,1200
+2018,30-05-2023,Aisha Khan,Refrigerator,Appliances,2,52000,45000,West,104000,14000
+2019,05-11-2023,Manish Verma,Fan,Appliances,3,1800,1200,East,5400,1800
+2020,15-09-2023,Riya Kapoor,Desk,Furniture,1,15000,11000,East,15000,4000
+2021,10-12-2023,Aarti Sharma,LED Light,Home Decor,3,300,150,West,900,450
+2022,18-02-2024,Anjali Gupta,Mattress,Furniture,4,18000,13000,East,72000,20000
+2023,21-10-2023,Vikram Singh,Mattress,Furniture,2,18000,13000,West,36000,10000
+2024,21-01-2024,Anjali Gupta,Power Bank,Electronics,2,1200,800,West,2400,800
+2025,11-07-2023,Amit Patel,Curtains,Home Decor,5,800,500,North,4000,1500
+2026,19-03-2024,Vikram Singh,Coffee Table,Furniture,2,8000,6000,South,16000,4000
+2027,04-10-2023,Lavanya Rao,Bed,Furniture,5,45000,35000,West,225000,50000
+2028,10-06-2023,Rohit Kumar,Keyboard,Electronics,1,900,600,North,900,300
+2029,10-11-2023,Aarti Sharma,Monitor,Electronics,4,12000,9000,West,48000,12000
+2030,22-01-2023,Meena Iyer,Water Bottle,Accessories,5,300,150,South,1500,750
+2031,10-09-2023,Payal Soni,Washing Machine,Appliances,1,39000,33000,West,39000,6000
+2032,24-08-2023,Aisha Khan,Office Chair,Furniture,2,6500,4500,North,13000,4000
+2033,11-12-2023,Himanshu Jain,Fan,Appliances,2,1800,1200,West,3600,1200
+2034,18-02-2023,Lavanya Rao,Mattress,Furniture,1,18000,13000,South,18000,5000
+2035,28-02-2023,Anjali Gupta,Keyboard,Electronics,2,900,600,South,1800,600
+2036,19-06-2023,Rahul Pandey,Desk,Furniture,1,15000,11000,East,15000,4000
+2037,07-07-2023,Harshit Jain,Handbag,Accessories,5,2000,1200,North,10000,4000
+2038,28-09-2023,Neha Singh,Microwave,Appliances,5,11000,9000,South,55000,10000
+2039,09-07-2023,Meena Iyer,Fan,Appliances,1,1800,1200,North,1800,600
+2040,21-03-2024,Anjali Gupta,LED Light,Home Decor,5,300,150,South,1500,750
+2041,24-06-2023,Manish Verma,Vacuum Cleaner,Appliances,5,6000,4500,West,30000,7500
+2042,21-03-2024,Aditya Verma,Microwave,Appliances,5,11000,9000,South,55000,10000
+2043,20-02-2023,Aarti Sharma,Mouse,Electronics,3,600,400,West,1800,600
+2044,30-12-2023,Lavanya Rao,Mattress,Furniture,4,18000,13000,East,72000,20000
+2045,24-02-2023,Jatin Sharma,Vacuum Cleaner,Appliances,2,6000,4500,East,12000,3000
+2046,01-09-2023,Anjali Gupta,Fan,Appliances,3,1800,1200,North,5400,1800
+2047,16-11-2023,Meena Iyer,Microwave,Appliances,5,11000,9000,South,55000,10000
+2048,11-05-2023,Aditya Verma,Headphones,Electronics,1,2500,1500,East,2500,1000
+2049,03-11-2023,Nandita Rao,Office Chair,Furniture,5,6500,4500,North,32500,10000
+2050,15-05-2023,Rohit Kumar,Fan,Appliances,4,1800,1200,East,7200,2400
+2051,21-01-2023,Rohit Kumar,Mattress,Furniture,5,18000,13000,West,90000,25000
+2052,25-11-2023,Arun Kumar,Smartwatch,Electronics,1,7000,5000,West,7000,2000
+2053,16-06-2023,Pooja Shah,Vacuum Cleaner,Appliances,4,6000,4500,South,24000,6000
+2054,01-10-2023,Riya Kapoor,Mouse,Electronics,5,600,400,West,3000,1000
+2055,23-01-2024,Harish Kumar,Desk Lamp,Home Decor,4,1500,900,West,6000,2400
+2056,30-03-2023,Sachin Gupta,Laptop,Electronics,2,55000,48000,East,110000,14000
+2057,12-11-2023,Harshit Jain,Mouse,Electronics,2,600,400,West,1200,400
+2058,14-01-2023,Sachin Gupta,Keyboard,Electronics,5,900,600,North,4500,1500
+2059,30-08-2023,Rahul Pandey,Coffee Table,Furniture,4,8000,6000,East,32000,8000
+2060,22-09-2023,Yogesh Kumar,Air Fryer,Appliances,1,8500,7000,West,8500,1500
+2061,12-12-2023,Nandita Rao,Curtains,Home Decor,5,800,500,East,4000,1500
+2062,22-02-2023,Harshit Jain,Geyser,Appliances,2,8500,7000,West,17000,3000
+2063,21-01-2024,Nandita Rao,Geyser,Appliances,2,8500,7000,South,17000,3000
+2064,06-12-2023,Vishal Gupta,Dining Table,Furniture,5,28000,22000,West,140000,30000
+2065,02-04-2023,Rohit Kumar,Smartwatch,Electronics,4,7000,5000,West,28000,8000
+2066,02-01-2024,Jatin Sharma,Microwave,Appliances,2,11000,9000,East,22000,4000
+2067,19-03-2024,Vikram Singh,Backpack,Accessories,4,900,600,South,3600,1200
+2068,03-03-2024,Sachin Gupta,Air Fryer,Appliances,2,8500,7000,North,17000,3000
+2069,21-09-2023,Lavanya Rao,Table Lamp,Home Decor,2,1200,800,North,2400,800
+2070,06-03-2024,Rohan Singh,Headphones,Electronics,3,2500,1500,North,7500,3000
+2071,04-02-2023,Jatin Sharma,Cookware Set,Home Decor,2,3000,2000,North,6000,2000
+2072,25-07-2023,Aisha Khan,Vacuum Cleaner,Appliances,1,6000,4500,East,6000,1500
+2073,22-03-2023,Aarti Sharma,Smartwatch,Electronics,5,7000,5000,North,35000,10000
+2074,24-02-2024,Manish Verma,Geyser,Appliances,5,8500,7000,North,42500,7500
+2075,19-02-2023,Aisha Khan,Geyser,Appliances,4,8500,7000,East,34000,6000
+2076,26-12-2023,Harish Kumar,Cookware Set,Home Decor,2,3000,2000,South,6000,2000
+2077,23-01-2024,Rahul Pandey,Refrigerator,Appliances,1,52000,45000,South,52000,7000
+2078,02-01-2023,Lavanya Rao,Monitor,Electronics,4,12000,9000,East,48000,12000
+2079,25-01-2024,Meena Iyer,Headphones,Electronics,3,2500,1500,East,7500,3000
+2080,23-02-2023,Amit Patel,Bed,Furniture,4,45000,35000,West,180000,40000
+2081,16-04-2023,Kavita Joshi,Smartwatch,Electronics,4,7000,5000,West,28000,8000
+2082,17-09-2023,Tina Joseph,Headphones,Electronics,2,2500,1500,North,5000,2000
+2083,06-11-2023,Riya Kapoor,Dining Table,Furniture,3,28000,22000,South,84000,18000
+2084,10-07-2023,Aarti Sharma,Washing Machine,Appliances,4,39000,33000,East,156000,24000
+2085,06-02-2024,Suresh Rana,Geyser,Appliances,1,8500,7000,East,8500,1500
+2086,06-08-2023,Jatin Sharma,Vacuum Cleaner,Appliances,1,6000,4500,West,6000,1500
+2087,13-02-2023,Vikram Singh,Geyser,Appliances,5,8500,7000,West,42500,7500
+2088,11-06-2023,Anjali Gupta,Curtains,Home Decor,3,800,500,East,2400,900
+2089,21-07-2023,Rohit Kumar,Fan,Appliances,3,1800,1200,South,5400,1800
+2090,21-03-2024,Aditya Verma,Blender,Appliances,5,1800,1300,West,9000,2500
+2091,27-09-2023,Riya Kapoor,Backpack,Accessories,4,900,600,South,3600,1200
+2092,17-12-2023,Arun Kumar,Vacuum Cleaner,Appliances,3,6000,4500,North,18000,4500
+2093,31-10-2023,Rajesh Patel,Power Bank,Electronics,1,1200,800,South,1200,400
+2094,28-09-2023,Lavanya Rao,Vacuum Cleaner,Appliances,1,6000,4500,East,6000,1500
+2095,03-08-2023,Sanjay Patel,Refrigerator,Appliances,2,52000,45000,South,104000,14000
+2096,09-09-2023,Vishal Gupta,Microwave,Appliances,3,11000,9000,West,33000,6000
+2097,09-07-2023,Sachin Gupta,Dining Table,Furniture,4,28000,22000,North,112000,24000
+2098,23-10-2023,Sachin Gupta,Geyser,Appliances,5,8500,7000,North,42500,7500
+2099,01-08-2023,Aisha Khan,Keyboard,Electronics,5,900,600,South,4500,1500
+2100,27-07-2023,Girish Mehra,Headphones,Electronics,4,2500,1500,East,10000,4000
+2101,25-08-2023,Amit Patel,Backpack,Accessories,2,900,600,West,1800,600
+2102,04-12-2023,Amit Patel,Geyser,Appliances,5,8500,7000,West,42500,7500
+2103,02-01-2024,Vikram Singh,Vacuum Cleaner,Appliances,3,6000,4500,South,18000,4500
+2104,22-02-2023,Rohit Kumar,Blender,Appliances,2,1800,1300,East,3600,1000
+2105,07-10-2023,Sachin Gupta,Laptop,Electronics,3,55000,48000,West,165000,21000
+2106,14-02-2024,Kavita Joshi,Power Bank,Electronics,1,1200,800,North,1200,400
+2107,05-08-2023,Nandita Rao,Fan,Appliances,2,1800,1200,East,3600,1200
+2108,09-09-2023,Vishal Gupta,Monitor,Electronics,5,12000,9000,West,60000,15000
+2109,07-07-2023,Rekha Sahu,Vacuum Cleaner,Appliances,2,6000,4500,West,12000,3000
+2110,15-01-2024,Payal Soni,Keyboard,Electronics,2,900,600,East,1800,600
+2111,10-02-2023,Riya Kapoor,Monitor,Electronics,2,12000,9000,North,24000,6000
+2112,06-06-2023,Aisha Khan,Bed,Furniture,2,45000,35000,West,90000,20000
+2113,15-01-2023,Neha Singh,Laptop,Electronics,3,55000,48000,South,165000,21000
+2114,28-10-2023,Rohit Kumar,Monitor,Electronics,1,12000,9000,North,12000,3000
+2115,06-03-2023,Rohit Kumar,Desk,Furniture,4,15000,11000,North,60000,16000
+2116,11-12-2023,Aditya Verma,Fan,Appliances,2,1800,1200,West,3600,1200
+2117,23-11-2023,Neha Singh,Blender,Appliances,5,1800,1300,West,9000,2500
+2118,09-01-2023,Aarti Sharma,Laptop,Electronics,2,55000,48000,East,110000,14000
+2119,10-12-2023,Aarti Sharma,Keyboard,Electronics,5,900,600,South,4500,1500
+2120,09-05-2023,Karan Mehra,Smartphone,Electronics,3,22000,18000,North,66000,12000
+2121,16-05-2023,Girish Mehra,Table Lamp,Home Decor,5,1200,800,East,6000,2000
+2122,04-03-2023,Pooja Shah,Laptop,Electronics,4,55000,48000,North,220000,28000
+2123,19-05-2023,Jatin Sharma,Mattress,Furniture,1,18000,13000,West,18000,5000
+2124,22-03-2023,Payal Soni,Water Bottle,Accessories,5,300,150,West,1500,750
+2125,27-01-2024,Sachin Gupta,Table Lamp,Home Decor,5,1200,800,East,6000,2000
+2126,12-06-2023,Shruti Nair,Smartphone,Electronics,1,22000,18000,North,22000,4000
+2127,23-02-2024,Preeti Das,Microwave,Appliances,4,11000,9000,South,44000,8000
+2128,16-10-2023,Aisha Khan,Water Bottle,Accessories,2,300,150,West,600,300
+2129,14-01-2024,Harshit Jain,Bed,Furniture,5,45000,35000,North,225000,50000
+2130,18-09-2023,Rohan Singh,Dining Table,Furniture,1,28000,22000,East,28000,6000
+2131,19-08-2023,Nandita Rao,Blender,Appliances,3,1800,1300,South,5400,1500
+2132,10-02-2023,Neha Singh,Water Bottle,Accessories,1,300,150,North,300,150
+2133,28-01-2023,Suresh Rana,Blender,Appliances,3,1800,1300,East,5400,1500
+2134,15-05-2023,Aisha Khan,Bed,Furniture,4,45000,35000,East,180000,40000
+2135,20-07-2023,Payal Soni,Curtains,Home Decor,2,800,500,South,1600,600
+2136,24-11-2023,Aisha Khan,Table Lamp,Home Decor,1,1200,800,East,1200,400
+2137,25-09-2023,Amit Patel,Washing Machine,Appliances,5,39000,33000,West,195000,30000
+2138,22-02-2024,Aarti Sharma,Geyser,Appliances,4,8500,7000,West,34000,6000
+2139,02-02-2023,Suresh Rana,Monitor,Electronics,1,12000,9000,North,12000,3000
+2140,17-02-2023,Pooja Shah,Headphones,Electronics,5,2500,1500,North,12500,5000
+2141,11-02-2024,Preeti Das,Curtains,Home Decor,1,800,500,West,800,300
+2142,03-03-2023,Suresh Rana,Desk,Furniture,3,15000,11000,East,45000,12000
+2143,04-08-2023,Sachin Gupta,Air Fryer,Appliances,1,8500,7000,East,8500,1500
+2144,20-10-2023,Himanshu Jain,Backpack,Accessories,1,900,600,East,900,300
+2145,09-04-2023,Riya Kapoor,Microwave,Appliances,1,11000,9000,East,11000,2000
+2146,21-06-2023,Amit Patel,Fan,Appliances,4,1800,1200,East,7200,2400
+2147,26-12-2023,Sachin Gupta,Smartwatch,Electronics,1,7000,5000,East,7000,2000
+2148,02-08-2023,Jatin Sharma,Air Fryer,Appliances,5,8500,7000,South,42500,7500
+2149,04-02-2023,Sanjay Patel,Fan,Appliances,3,1800,1200,North,5400,1800
+2150,24-03-2024,Shruti Nair,Blender,Appliances,3,1800,1300,West,5400,1500
+2151,15-08-2023,Rohan Singh,Bed,Furniture,1,45000,35000,South,45000,10000
+2152,11-04-2023,Suresh Rana,Office Chair,Furniture,4,6500,4500,West,26000,8000
+2153,06-03-2024,Sanjay Patel,Microwave,Appliances,4,11000,9000,East,44000,8000
+2154,11-05-2023,Arun Kumar,Air Fryer,Appliances,5,8500,7000,West,42500,7500
+2155,14-09-2023,Aisha Khan,Mattress,Furniture,1,18000,13000,South,18000,5000
+2156,05-01-2023,Aarti Sharma,Blender,Appliances,3,1800,1300,West,5400,1500
+2157,06-08-2023,Vishal Gupta,Water Bottle,Accessories,4,300,150,East,1200,600
+2158,12-09-2023,Rohit Kumar,Vacuum Cleaner,Appliances,1,6000,4500,North,6000,1500
+2159,02-02-2024,Tina Joseph,Power Bank,Electronics,4,1200,800,South,4800,1600
+2160,25-12-2023,Sachin Gupta,Table Lamp,Home Decor,4,1200,800,East,4800,1600
+2161,10-10-2023,Deepak Yadav,Water Bottle,Accessories,3,300,150,North,900,450
+2162,28-01-2024,Preeti Das,LED Light,Home Decor,2,300,150,North,600,300
+2163,26-07-2023,Vikram Singh,Geyser,Appliances,5,8500,7000,North,42500,7500
+2164,15-01-2023,Neha Singh,Mouse,Electronics,5,600,400,East,3000,1000
+2165,12-12-2023,Amit Patel,Keyboard,Electronics,3,900,600,North,2700,900
+2166,11-02-2023,Tina Joseph,Washing Machine,Appliances,4,39000,33000,South,156000,24000
+2167,15-01-2024,Karan Mehra,Laptop,Electronics,1,55000,48000,West,55000,7000
+2168,28-06-2023,Vikram Singh,Blender,Appliances,4,1800,1300,South,7200,2000
+2169,04-03-2023,Deepak Yadav,Coffee Table,Furniture,3,8000,6000,South,24000,6000
+2170,18-12-2023,Tina Joseph,Cookware Set,Home Decor,5,3000,2000,North,15000,5000
+2171,19-08-2023,Amit Patel,Microwave,Appliances,4,11000,9000,North,44000,8000
+2172,29-08-2023,Himanshu Jain,Mouse,Electronics,5,600,400,South,3000,1000
+2173,21-02-2023,Manish Verma,Monitor,Electronics,1,12000,9000,West,12000,3000
+2174,06-04-2023,Tina Joseph,Desk,Furniture,5,15000,11000,South,75000,20000
+2175,23-01-2024,Deepak Yadav,Coffee Table,Furniture,5,8000,6000,South,40000,10000
+2176,10-08-2023,Jatin Sharma,Fan,Appliances,2,1800,1200,North,3600,1200
+2177,11-02-2024,Yogesh Kumar,Keyboard,Electronics,2,900,600,North,1800,600
+2178,19-08-2023,Lavanya Rao,Smartphone,Electronics,2,22000,18000,North,44000,8000
+2179,25-08-2023,Harish Kumar,Curtains,Home Decor,5,800,500,North,4000,1500
+2180,23-05-2023,Kavita Joshi,Headphones,Electronics,3,2500,1500,North,7500,3000
+2181,20-06-2023,Yogesh Kumar,Backpack,Accessories,5,900,600,West,4500,1500
+2182,29-01-2023,Rahul Pandey,LED Light,Home Decor,3,300,150,South,900,450
+2183,05-02-2023,Jatin Sharma,Desk,Furniture,3,15000,11000,North,45000,12000
+2184,13-01-2023,Lavanya Rao,Coffee Table,Furniture,2,8000,6000,East,16000,4000
+2185,09-06-2023,Neha Singh,Curtains,Home Decor,4,800,500,South,3200,1200
+2186,23-11-2023,Rahul Pandey,Monitor,Electronics,1,12000,9000,East,12000,3000
+2187,06-07-2023,Rohit Kumar,Refrigerator,Appliances,2,52000,45000,North,104000,14000
+2188,31-08-2023,Payal Soni,Geyser,Appliances,2,8500,7000,South,17000,3000
+2189,27-03-2023,Amit Patel,Laptop,Electronics,4,55000,48000,West,220000,28000
+2190,11-10-2023,Rajesh Patel,Bed,Furniture,1,45000,35000,North,45000,10000
+2191,07-03-2023,Amit Patel,Laptop,Electronics,5,55000,48000,East,275000,35000
+2192,19-06-2023,Sanjay Patel,Table Lamp,Home Decor,5,1200,800,North,6000,2000
+2193,14-02-2023,Amit Patel,Air Fryer,Appliances,2,8500,7000,North,17000,3000
+2194,03-03-2023,Sanjay Patel,Desk,Furniture,1,15000,11000,East,15000,4000
+2195,16-03-2024,Yogesh Kumar,Laptop,Electronics,2,55000,48000,East,110000,14000
+2196,14-05-2023,Payal Soni,Blender,Appliances,3,1800,1300,West,5400,1500
+2197,11-10-2023,Jatin Sharma,Laptop,Electronics,2,55000,48000,East,110000,14000
+2198,28-01-2023,Aditya Verma,Geyser,Appliances,2,8500,7000,East,17000,3000
+2199,18-04-2023,Vishal Gupta,Keyboard,Electronics,5,900,600,South,4500,1500
+2200,13-02-2023,Arun Kumar,Blender,Appliances,5,1800,1300,East,9000,2500
+2201,06-12-2023,Jatin Sharma,Microwave,Appliances,5,11000,9000,South,55000,10000
+2202,13-10-2023,Jatin Sharma,Handbag,Accessories,3,2000,1200,South,6000,2400
+2203,21-03-2024,Rahul Pandey,Table Lamp,Home Decor,5,1200,800,South,6000,2000
+2204,27-11-2023,Harish Kumar,Cookware Set,Home Decor,1,3000,2000,West,3000,1000
+2205,08-05-2023,Rohan Singh,Washing Machine,Appliances,4,39000,33000,East,156000,24000
+2206,14-12-2023,Rohan Singh,Power Bank,Electronics,1,1200,800,North,1200,400
+2207,19-08-2023,Lavanya Rao,Desk Lamp,Home Decor,1,1500,900,South,1500,600
+2208,09-07-2023,Karan Mehra,Smartphone,Electronics,5,22000,18000,North,110000,20000
+2209,13-08-2023,Lavanya Rao,Geyser,Appliances,4,8500,7000,West,34000,6000
+2210,20-01-2024,Manish Verma,Coffee Table,Furniture,4,8000,6000,North,32000,8000
+2211,12-01-2024,Rohit Kumar,Mouse,Electronics,4,600,400,North,2400,800
+2212,10-10-2023,Deepak Yadav,Microwave,Appliances,3,11000,9000,South,33000,6000
+2213,21-03-2024,Kavita Joshi,Curtains,Home Decor,5,800,500,North,4000,1500
+2214,01-05-2023,Aditya Verma,Desk Lamp,Home Decor,4,1500,900,North,6000,2400
+2215,26-04-2023,Himanshu Jain,Office Chair,Furniture,3,6500,4500,South,19500,6000
+2216,21-08-2023,Vishal Gupta,Bed,Furniture,2,45000,35000,North,90000,20000
+2217,16-09-2023,Anjali Gupta,Monitor,Electronics,2,12000,9000,North,24000,6000
+2218,25-12-2023,Karan Mehra,Cookware Set,Home Decor,3,3000,2000,North,9000,3000
+2219,17-07-2023,Sachin Gupta,Desk Lamp,Home Decor,3,1500,900,West,4500,1800
+2220,15-02-2024,Vikram Singh,Water Bottle,Accessories,5,300,150,North,1500,750
+2221,17-05-2023,Suresh Rana,Geyser,Appliances,5,8500,7000,North,42500,7500
+2222,14-11-2023,Himanshu Jain,Power Bank,Electronics,2,1200,800,North,2400,800
+2223,14-06-2023,Neha Singh,Handbag,Accessories,4,2000,1200,East,8000,3200
+2224,13-08-2023,Arun Kumar,Air Fryer,Appliances,2,8500,7000,West,17000,3000
+2225,03-11-2023,Payal Soni,Table Lamp,Home Decor,4,1200,800,South,4800,1600
+2226,22-08-2023,Karan Mehra,Air Fryer,Appliances,4,8500,7000,East,34000,6000
+2227,21-06-2023,Nandita Rao,Cookware Set,Home Decor,5,3000,2000,North,15000,5000
+2228,01-06-2023,Karan Mehra,Handbag,Accessories,1,2000,1200,East,2000,800
+2229,11-11-2023,Vishal Gupta,Power Bank,Electronics,1,1200,800,East,1200,400
+2230,09-01-2024,Vikram Singh,Dining Table,Furniture,3,28000,22000,North,84000,18000
+2231,09-06-2023,Shruti Nair,Laptop,Electronics,5,55000,48000,South,275000,35000
+2232,06-04-2023,Aditya Verma,Monitor,Electronics,4,12000,9000,South,48000,12000
+2233,21-08-2023,Harish Kumar,Desk,Furniture,1,15000,11000,West,15000,4000
+2234,29-06-2023,Tina Joseph,Air Fryer,Appliances,4,8500,7000,South,34000,6000
+2235,23-04-2023,Rekha Sahu,Keyboard,Electronics,1,900,600,South,900,300
+2236,14-11-2023,Jatin Sharma,Air Fryer,Appliances,1,8500,7000,North,8500,1500
+2237,17-03-2024,Rajesh Patel,Fan,Appliances,1,1800,1200,West,1800,600
+2238,21-02-2023,Suresh Rana,Desk,Furniture,5,15000,11000,South,75000,20000
+2239,25-09-2023,Girish Mehra,Office Chair,Furniture,2,6500,4500,East,13000,4000
+2240,22-10-2023,Jatin Sharma,Mouse,Electronics,4,600,400,East,2400,800
+2241,21-01-2024,Kavita Joshi,Geyser,Appliances,5,8500,7000,North,42500,7500
+2242,22-01-2024,Payal Soni,Blender,Appliances,5,1800,1300,South,9000,2500
+2243,23-04-2023,Sanjay Patel,Geyser,Appliances,5,8500,7000,North,42500,7500
+2244,11-04-2023,Meena Iyer,Desk Lamp,Home Decor,5,1500,900,East,7500,3000
+2245,23-04-2023,Lavanya Rao,Handbag,Accessories,5,2000,1200,South,10000,4000
+2246,15-03-2024,Girish Mehra,Water Bottle,Accessories,3,300,150,West,900,450
+2247,22-03-2023,Himanshu Jain,Geyser,Appliances,4,8500,7000,South,34000,6000
+2248,06-07-2023,Deepak Yadav,Air Fryer,Appliances,5,8500,7000,West,42500,7500
+2249,23-04-2023,Tina Joseph,Geyser,Appliances,4,8500,7000,West,34000,6000
+2250,02-01-2023,Shruti Nair,Smartphone,Electronics,3,22000,18000,East,66000,12000
+2251,10-05-2023,Rahul Pandey,Office Chair,Furniture,3,6500,4500,South,19500,6000
+2252,08-08-2023,Himanshu Jain,Air Fryer,Appliances,4,8500,7000,East,34000,6000
+2253,23-02-2023,Sanjay Patel,Handbag,Accessories,1,2000,1200,North,2000,800
+2254,09-12-2023,Harshit Jain,Power Bank,Electronics,2,1200,800,East,2400,800
+2255,12-08-2023,Lavanya Rao,Cookware Set,Home Decor,1,3000,2000,West,3000,1000
+2256,13-08-2023,Harish Kumar,Desk,Furniture,1,15000,11000,West,15000,4000
+2257,20-01-2024,Yogesh Kumar,Headphones,Electronics,1,2500,1500,North,2500,1000
+2258,07-02-2024,Rohit Kumar,Blender,Appliances,5,1800,1300,North,9000,2500
+2259,06-05-2023,Riya Kapoor,Bed,Furniture,3,45000,35000,East,135000,30000
+2260,10-05-2023,Rekha Sahu,Monitor,Electronics,1,12000,9000,East,12000,3000
+2261,22-02-2023,Rajesh Patel,Curtains,Home Decor,3,800,500,West,2400,900
+2262,21-06-2023,Arun Kumar,Coffee Table,Furniture,4,8000,6000,West,32000,8000
+2263,06-08-2023,Lavanya Rao,Desk Lamp,Home Decor,2,1500,900,South,3000,1200
+2264,09-06-2023,Suresh Rana,Microwave,Appliances,4,11000,9000,South,44000,8000
+2265,17-07-2023,Rohit Kumar,Table Lamp,Home Decor,4,1200,800,East,4800,1600
+2266,20-02-2024,Himanshu Jain,Smartphone,Electronics,5,22000,18000,West,110000,20000
+2267,04-09-2023,Aarti Sharma,Curtains,Home Decor,2,800,500,East,1600,600
+2268,20-11-2023,Deepak Yadav,Washing Machine,Appliances,4,39000,33000,North,156000,24000
+2269,14-03-2024,Rahul Pandey,Refrigerator,Appliances,4,52000,45000,North,208000,28000
+2270,22-07-2023,Vikram Singh,Vacuum Cleaner,Appliances,2,6000,4500,West,12000,3000
+2271,03-07-2023,Anjali Gupta,Power Bank,Electronics,2,1200,800,North,2400,800
+2272,03-05-2023,Kavita Joshi,Smartphone,Electronics,4,22000,18000,North,88000,16000
+2273,05-02-2024,Suresh Rana,Headphones,Electronics,2,2500,1500,West,5000,2000
+2274,12-09-2023,Sanjay Patel,Power Bank,Electronics,4,1200,800,East,4800,1600
+2275,21-10-2023,Anjali Gupta,Fan,Appliances,4,1800,1200,East,7200,2400
+2276,07-10-2023,Jatin Sharma,Smartwatch,Electronics,5,7000,5000,East,35000,10000
+2277,21-11-2023,Amit Patel,Water Bottle,Accessories,1,300,150,West,300,150
+2278,07-01-2024,Rohit Kumar,Smartphone,Electronics,4,22000,18000,West,88000,16000
+2279,08-04-2023,Karan Mehra,Cookware Set,Home Decor,3,3000,2000,South,9000,3000
+2280,17-07-2023,Meena Iyer,Mattress,Furniture,1,18000,13000,South,18000,5000
+2281,30-01-2024,Harish Kumar,Monitor,Electronics,1,12000,9000,West,12000,3000
+2282,28-08-2023,Pooja Shah,Dining Table,Furniture,1,28000,22000,North,28000,6000
+2283,24-05-2023,Karan Mehra,Refrigerator,Appliances,5,52000,45000,West,260000,35000
+2284,07-04-2023,Rohit Kumar,Microwave,Appliances,4,11000,9000,North,44000,8000
+2285,20-07-2023,Vikram Singh,Keyboard,Electronics,5,900,600,South,4500,1500
+2286,04-05-2023,Jatin Sharma,Curtains,Home Decor,4,800,500,North,3200,1200
+2287,06-07-2023,Rohan Singh,Keyboard,Electronics,5,900,600,East,4500,1500
+2288,22-11-2023,Meena Iyer,Coffee Table,Furniture,5,8000,6000,South,40000,10000
+2289,15-12-2023,Rajesh Patel,Monitor,Electronics,3,12000,9000,East,36000,9000
+2290,16-09-2023,Sachin Gupta,Water Bottle,Accessories,5,300,150,East,1500,750
+2291,28-05-2023,Kavita Joshi,Mattress,Furniture,2,18000,13000,East,36000,10000
+2292,09-09-2023,Shruti Nair,Desk Lamp,Home Decor,3,1500,900,East,4500,1800
+2293,18-03-2024,Arun Kumar,Refrigerator,Appliances,5,52000,45000,South,260000,35000
+2294,24-02-2024,Riya Kapoor,Microwave,Appliances,1,11000,9000,North,11000,2000
+2295,07-02-2024,Himanshu Jain,Washing Machine,Appliances,2,39000,33000,East,78000,12000
+2296,12-12-2023,Aditya Verma,Geyser,Appliances,2,8500,7000,North,17000,3000
+2297,27-05-2023,Aisha Khan,Backpack,Accessories,2,900,600,North,1800,600
+2298,28-05-2023,Vikram Singh,Keyboard,Electronics,3,900,600,North,2700,900
+2299,18-12-2023,Rahul Pandey,Keyboard,Electronics,5,900,600,West,4500,1500
+2300,18-07-2023,Lavanya Rao,Headphones,Electronics,5,2500,1500,West,12500,5000
+2301,04-11-2023,Lavanya Rao,Headphones,Electronics,1,2500,1500,South,2500,1000
+2302,21-02-2024,Neha Singh,Keyboard,Electronics,1,900,600,South,900,300
+2303,28-02-2024,Girish Mehra,Air Fryer,Appliances,2,8500,7000,North,17000,3000
+2304,08-05-2023,Jatin Sharma,Refrigerator,Appliances,1,52000,45000,East,52000,7000
+2305,08-02-2023,Jatin Sharma,Mouse,Electronics,3,600,400,West,1800,600
+2306,04-12-2023,Girish Mehra,Backpack,Accessories,5,900,600,South,4500,1500
+2307,26-12-2023,Shruti Nair,Smartphone,Electronics,2,22000,18000,South,44000,8000
+2308,09-05-2023,Deepak Yadav,Bed,Furniture,1,45000,35000,West,45000,10000
+2309,24-09-2023,Riya Kapoor,Coffee Table,Furniture,3,8000,6000,North,24000,6000
+2310,16-03-2024,Preeti Das,Blender,Appliances,3,1800,1300,East,5400,1500
+2311,09-03-2024,Suresh Rana,Fan,Appliances,1,1800,1200,South,1800,600
+2312,31-05-2023,Girish Mehra,Desk,Furniture,5,15000,11000,East,75000,20000
+2313,19-02-2024,Suresh Rana,Mouse,Electronics,1,600,400,North,600,200
+2314,25-10-2023,Aarti Sharma,Handbag,Accessories,2,2000,1200,East,4000,1600
+2315,09-04-2023,Shruti Nair,Curtains,Home Decor,1,800,500,West,800,300
+2316,20-09-2023,Aditya Verma,Air Fryer,Appliances,3,8500,7000,West,25500,4500
+2317,09-09-2023,Aisha Khan,Fan,Appliances,1,1800,1200,West,1800,600
+2318,24-05-2023,Arun Kumar,Handbag,Accessories,5,2000,1200,East,10000,4000
+2319,12-12-2023,Rohan Singh,Backpack,Accessories,4,900,600,East,3600,1200
+2320,22-04-2023,Pooja Shah,Table Lamp,Home Decor,1,1200,800,South,1200,400
+2321,01-03-2023,Vishal Gupta,Office Chair,Furniture,5,6500,4500,East,32500,10000
+2322,04-01-2024,Tina Joseph,Refrigerator,Appliances,5,52000,45000,East,260000,35000
+2323,02-01-2023,Deepak Yadav,Bed,Furniture,3,45000,35000,South,135000,30000
+2324,20-01-2024,Neha Singh,Vacuum Cleaner,Appliances,5,6000,4500,South,30000,7500
+2325,31-10-2023,Pooja Shah,Refrigerator,Appliances,5,52000,45000,South,260000,35000
+2326,11-09-2023,Amit Patel,Table Lamp,Home Decor,5,1200,800,West,6000,2000
+2327,20-05-2023,Girish Mehra,Desk,Furniture,5,15000,11000,East,75000,20000
+2328,06-02-2023,Riya Kapoor,Cookware Set,Home Decor,2,3000,2000,East,6000,2000
+2329,09-06-2023,Aditya Verma,Desk,Furniture,2,15000,11000,North,30000,8000
+2330,09-01-2023,Pooja Shah,Laptop,Electronics,3,55000,48000,North,165000,21000
+2331,21-08-2023,Rahul Pandey,Smartwatch,Electronics,1,7000,5000,South,7000,2000
+2332,09-04-2023,Yogesh Kumar,Monitor,Electronics,5,12000,9000,South,60000,15000
+2333,27-05-2023,Harish Kumar,Backpack,Accessories,1,900,600,East,900,300
+2334,31-10-2023,Sanjay Patel,Table Lamp,Home Decor,1,1200,800,East,1200,400
+2335,27-07-2023,Jatin Sharma,Cookware Set,Home Decor,3,3000,2000,East,9000,3000
+2336,11-05-2023,Amit Patel,Laptop,Electronics,5,55000,48000,North,275000,35000
+2337,08-02-2024,Sanjay Patel,Cookware Set,Home Decor,5,3000,2000,East,15000,5000
+2338,01-06-2023,Pooja Shah,LED Light,Home Decor,4,300,150,North,1200,600
+2339,23-02-2023,Aditya Verma,Desk Lamp,Home Decor,1,1500,900,North,1500,600
+2340,30-04-2023,Lavanya Rao,Blender,Appliances,1,1800,1300,West,1800,500
+2341,10-06-2023,Vishal Gupta,Refrigerator,Appliances,2,52000,45000,East,104000,14000
+2342,12-02-2024,Manish Verma,Geyser,Appliances,4,8500,7000,East,34000,6000
+2343,26-04-2023,Aditya Verma,Backpack,Accessories,2,900,600,North,1800,600
+2344,16-03-2023,Manish Verma,Laptop,Electronics,2,55000,48000,North,110000,14000
+2345,23-04-2023,Yogesh Kumar,Monitor,Electronics,2,12000,9000,West,24000,6000
+2346,24-02-2024,Jatin Sharma,Microwave,Appliances,3,11000,9000,East,33000,6000
+2347,26-02-2024,Aisha Khan,Backpack,Accessories,3,900,600,South,2700,900
+2348,14-04-2023,Anjali Gupta,Vacuum Cleaner,Appliances,2,6000,4500,South,12000,3000
+2349,06-12-2023,Aditya Verma,Curtains,Home Decor,4,800,500,East,3200,1200
+2350,11-09-2023,Sachin Gupta,Microwave,Appliances,1,11000,9000,East,11000,2000
+2351,15-08-2023,Karan Mehra,Smartphone,Electronics,4,22000,18000,South,88000,16000
+2352,22-04-2023,Rahul Pandey,Desk Lamp,Home Decor,5,1500,900,South,7500,3000
+2353,09-04-2023,Rajesh Patel,Vacuum Cleaner,Appliances,3,6000,4500,North,18000,4500
+2354,02-06-2023,Tina Joseph,Blender,Appliances,1,1800,1300,South,1800,500
+2355,15-12-2023,Harshit Jain,Geyser,Appliances,1,8500,7000,North,8500,1500
+2356,06-02-2024,Neha Singh,Desk Lamp,Home Decor,5,1500,900,East,7500,3000
+2357,19-01-2024,Aisha Khan,Refrigerator,Appliances,5,52000,45000,North,260000,35000
+2358,01-01-2024,Rohan Singh,Vacuum Cleaner,Appliances,2,6000,4500,North,12000,3000
+2359,04-12-2023,Yogesh Kumar,Power Bank,Electronics,3,1200,800,South,3600,1200
+2360,13-07-2023,Rohit Kumar,Office Chair,Furniture,3,6500,4500,South,19500,6000
+2361,06-11-2023,Himanshu Jain,Keyboard,Electronics,4,900,600,South,3600,1200
+2362,12-06-2023,Himanshu Jain,Office Chair,Furniture,2,6500,4500,North,13000,4000
+2363,27-07-2023,Rahul Pandey,Handbag,Accessories,2,2000,1200,East,4000,1600
+2364,20-03-2024,Aarti Sharma,LED Light,Home Decor,2,300,150,North,600,300
+2365,18-06-2023,Rohit Kumar,Geyser,Appliances,2,8500,7000,East,17000,3000
+2366,10-06-2023,Karan Mehra,Water Bottle,Accessories,3,300,150,East,900,450
+2367,09-03-2023,Pooja Shah,Office Chair,Furniture,3,6500,4500,West,19500,6000
+2368,16-10-2023,Payal Soni,Mouse,Electronics,2,600,400,West,1200,400
+2369,02-02-2024,Kavita Joshi,Handbag,Accessories,4,2000,1200,South,8000,3200
+2370,04-10-2023,Harshit Jain,Desk,Furniture,1,15000,11000,East,15000,4000
+2371,31-10-2023,Neha Singh,Air Fryer,Appliances,1,8500,7000,South,8500,1500
+2372,08-02-2024,Arun Kumar,Backpack,Accessories,4,900,600,South,3600,1200
+2373,19-01-2024,Kavita Joshi,Keyboard,Electronics,2,900,600,East,1800,600
+2374,27-01-2024,Karan Mehra,Handbag,Accessories,3,2000,1200,South,6000,2400
+2375,15-05-2023,Karan Mehra,Fan,Appliances,1,1800,1200,South,1800,600
+2376,14-07-2023,Riya Kapoor,Table Lamp,Home Decor,5,1200,800,East,6000,2000
+2377,05-02-2024,Neha Singh,Washing Machine,Appliances,5,39000,33000,West,195000,30000
+2378,08-05-2023,Anjali Gupta,Blender,Appliances,4,1800,1300,North,7200,2000
+2379,02-02-2023,Jatin Sharma,Vacuum Cleaner,Appliances,2,6000,4500,West,12000,3000
+2380,25-06-2023,Neha Singh,Monitor,Electronics,1,12000,9000,West,12000,3000
+2381,18-03-2024,Aditya Verma,Monitor,Electronics,2,12000,9000,South,24000,6000
+2382,06-01-2024,Harshit Jain,Monitor,Electronics,1,12000,9000,West,12000,3000
+2383,10-01-2024,Tina Joseph,Washing Machine,Appliances,4,39000,33000,East,156000,24000
+2384,22-01-2023,Riya Kapoor,Smartphone,Electronics,4,22000,18000,West,88000,16000
+2385,26-08-2023,Rohit Kumar,Bed,Furniture,5,45000,35000,South,225000,50000
+2386,07-06-2023,Kavita Joshi,Curtains,Home Decor,2,800,500,North,1600,600
+2387,07-02-2023,Sanjay Patel,Fan,Appliances,5,1800,1200,South,9000,3000
+2388,18-08-2023,Deepak Yadav,Microwave,Appliances,2,11000,9000,West,22000,4000
+2389,31-12-2023,Riya Kapoor,Fan,Appliances,5,1800,1200,North,9000,3000
+2390,20-02-2023,Rekha Sahu,Table Lamp,Home Decor,3,1200,800,North,3600,1200
+2391,13-03-2024,Neha Singh,Monitor,Electronics,3,12000,9000,East,36000,9000
+2392,21-09-2023,Vikram Singh,Monitor,Electronics,3,12000,9000,South,36000,9000
+2393,10-10-2023,Aditya Verma,Power Bank,Electronics,3,1200,800,South,3600,1200
+2394,27-01-2023,Manish Verma,Water Bottle,Accessories,1,300,150,West,300,150
+2395,14-08-2023,Manish Verma,Mouse,Electronics,3,600,400,South,1800,600
+2396,04-10-2023,Aarti Sharma,Monitor,Electronics,4,12000,9000,West,48000,12000
+2397,13-10-2023,Shruti Nair,Desk,Furniture,4,15000,11000,West,60000,16000
+2398,07-04-2023,Aditya Verma,Fan,Appliances,1,1800,1200,North,1800,600
+2399,11-10-2023,Vishal Gupta,Mouse,Electronics,3,600,400,North,1800,600
+2400,02-01-2024,Vishal Gupta,Curtains,Home Decor,3,800,500,North,2400,900
+2401,23-03-2024,Amit Patel,Smartwatch,Electronics,3,7000,5000,South,21000,6000
+2402,13-11-2023,Himanshu Jain,Dining Table,Furniture,5,28000,22000,North,140000,30000
+2403,31-10-2023,Neha Singh,Water Bottle,Accessories,2,300,150,East,600,300
+2404,27-05-2023,Manish Verma,LED Light,Home Decor,5,300,150,East,1500,750
+2405,04-01-2023,Riya Kapoor,Power Bank,Electronics,2,1200,800,South,2400,800
+2406,04-02-2023,Arun Kumar,Coffee Table,Furniture,3,8000,6000,East,24000,6000
+2407,11-07-2023,Harish Kumar,Refrigerator,Appliances,3,52000,45000,South,156000,21000
+2408,18-02-2023,Arun Kumar,Desk,Furniture,5,15000,11000,North,75000,20000
+2409,17-01-2023,Rahul Pandey,Water Bottle,Accessories,5,300,150,North,1500,750
+2410,21-06-2023,Karan Mehra,Curtains,Home Decor,2,800,500,East,1600,600
+2411,08-08-2023,Himanshu Jain,Washing Machine,Appliances,4,39000,33000,North,156000,24000
+2412,07-06-2023,Lavanya Rao,Laptop,Electronics,2,55000,48000,East,110000,14000
+2413,15-02-2023,Aditya Verma,Handbag,Accessories,5,2000,1200,South,10000,4000
+2414,08-01-2024,Harish Kumar,Bed,Furniture,5,45000,35000,West,225000,50000
+2415,06-01-2023,Rajesh Patel,Smartphone,Electronics,1,22000,18000,South,22000,4000
+2416,09-04-2023,Rohit Kumar,Coffee Table,Furniture,5,8000,6000,North,40000,10000
+2417,15-01-2024,Vishal Gupta,Keyboard,Electronics,1,900,600,West,900,300
+2418,21-08-2023,Lavanya Rao,Bed,Furniture,4,45000,35000,West,180000,40000
+2419,06-02-2023,Shruti Nair,Monitor,Electronics,2,12000,9000,South,24000,6000
+2420,07-10-2023,Rajesh Patel,Handbag,Accessories,2,2000,1200,East,4000,1600
+2421,15-12-2023,Harish Kumar,Dining Table,Furniture,1,28000,22000,East,28000,6000
+2422,29-10-2023,Harshit Jain,Refrigerator,Appliances,2,52000,45000,East,104000,14000
+2423,30-06-2023,Arun Kumar,Smartphone,Electronics,5,22000,18000,East,110000,20000
+2424,05-04-2023,Nandita Rao,Bed,Furniture,3,45000,35000,North,135000,30000
+2425,09-04-2023,Lavanya Rao,Headphones,Electronics,1,2500,1500,West,2500,1000
+2426,07-07-2023,Deepak Yadav,Backpack,Accessories,2,900,600,West,1800,600
+2427,26-04-2023,Aditya Verma,Dining Table,Furniture,1,28000,22000,West,28000,6000
+2428,10-07-2023,Neha Singh,Water Bottle,Accessories,1,300,150,South,300,150
+2429,10-09-2023,Arun Kumar,Dining Table,Furniture,3,28000,22000,East,84000,18000
+2430,20-02-2024,Riya Kapoor,Backpack,Accessories,5,900,600,North,4500,1500
+2431,10-06-2023,Meena Iyer,Keyboard,Electronics,1,900,600,East,900,300
+2432,13-09-2023,Payal Soni,Blender,Appliances,2,1800,1300,East,3600,1000
+2433,19-11-2023,Rekha Sahu,Coffee Table,Furniture,4,8000,6000,North,32000,8000
+2434,08-05-2023,Tina Joseph,Table Lamp,Home Decor,1,1200,800,North,1200,400
+2435,18-01-2023,Amit Patel,Monitor,Electronics,1,12000,9000,North,12000,3000
+2436,08-10-2023,Girish Mehra,Office Chair,Furniture,3,6500,4500,North,19500,6000
+2437,11-08-2023,Yogesh Kumar,Cookware Set,Home Decor,5,3000,2000,East,15000,5000
+2438,23-02-2023,Sanjay Patel,Smartwatch,Electronics,4,7000,5000,North,28000,8000
+2439,27-02-2023,Tina Joseph,Refrigerator,Appliances,2,52000,45000,North,104000,14000
+2440,19-11-2023,Harish Kumar,Office Chair,Furniture,4,6500,4500,South,26000,8000
+2441,26-12-2023,Deepak Yadav,LED Light,Home Decor,2,300,150,East,600,300
+2442,23-06-2023,Neha Singh,Backpack,Accessories,5,900,600,West,4500,1500
+2443,07-10-2023,Rekha Sahu,Curtains,Home Decor,2,800,500,East,1600,600
+2444,24-04-2023,Amit Patel,Desk,Furniture,3,15000,11000,East,45000,12000
+2445,15-10-2023,Vikram Singh,Fan,Appliances,3,1800,1200,West,5400,1800
+2446,06-03-2024,Nandita Rao,Monitor,Electronics,3,12000,9000,South,36000,9000
+2447,08-12-2023,Aisha Khan,Monitor,Electronics,3,12000,9000,South,36000,9000
+2448,31-05-2023,Rajesh Patel,Dining Table,Furniture,4,28000,22000,South,112000,24000
+2449,25-03-2024,Aditya Verma,Monitor,Electronics,5,12000,9000,South,60000,15000
+2450,07-05-2023,Karan Mehra,Handbag,Accessories,2,2000,1200,West,4000,1600
+2451,04-06-2023,Rahul Pandey,Office Chair,Furniture,2,6500,4500,South,13000,4000
+2452,21-01-2024,Deepak Yadav,Microwave,Appliances,3,11000,9000,South,33000,6000
+2453,30-09-2023,Shruti Nair,Keyboard,Electronics,3,900,600,East,2700,900
+2454,14-04-2023,Arun Kumar,Keyboard,Electronics,1,900,600,South,900,300
+2455,21-02-2024,Aditya Verma,Fan,Appliances,5,1800,1200,East,9000,3000
+2456,28-01-2024,Sachin Gupta,Desk,Furniture,4,15000,11000,West,60000,16000
+2457,26-10-2023,Rahul Pandey,Vacuum Cleaner,Appliances,2,6000,4500,South,12000,3000
+2458,03-09-2023,Anjali Gupta,Geyser,Appliances,1,8500,7000,East,8500,1500
+2459,25-06-2023,Pooja Shah,Desk,Furniture,1,15000,11000,North,15000,4000
+2460,08-02-2023,Girish Mehra,Monitor,Electronics,2,12000,9000,West,24000,6000
+2461,19-06-2023,Riya Kapoor,Geyser,Appliances,4,8500,7000,South,34000,6000
+2462,04-09-2023,Jatin Sharma,Dining Table,Furniture,1,28000,22000,East,28000,6000
+2463,26-01-2023,Shruti Nair,Vacuum Cleaner,Appliances,1,6000,4500,South,6000,1500
+2464,21-12-2023,Meena Iyer,Coffee Table,Furniture,5,8000,6000,East,40000,10000
+2465,02-11-2023,Himanshu Jain,Vacuum Cleaner,Appliances,4,6000,4500,East,24000,6000
+2466,13-02-2024,Rahul Pandey,Headphones,Electronics,1,2500,1500,South,2500,1000
+2467,12-02-2024,Tina Joseph,Smartphone,Electronics,4,22000,18000,East,88000,16000
+2468,13-01-2023,Pooja Shah,Desk Lamp,Home Decor,2,1500,900,South,3000,1200
+2469,12-11-2023,Rekha Sahu,Refrigerator,Appliances,3,52000,45000,South,156000,21000
+2470,26-01-2024,Neha Singh,Handbag,Accessories,1,2000,1200,East,2000,800
+2471,09-11-2023,Kavita Joshi,Table Lamp,Home Decor,5,1200,800,North,6000,2000
+2472,05-02-2023,Rekha Sahu,Air Fryer,Appliances,2,8500,7000,West,17000,3000
+2473,22-06-2023,Riya Kapoor,Air Fryer,Appliances,4,8500,7000,East,34000,6000
+2474,20-01-2023,Rekha Sahu,Curtains,Home Decor,2,800,500,South,1600,600
+2475,17-11-2023,Himanshu Jain,Curtains,Home Decor,1,800,500,South,800,300
+2476,21-09-2023,Rahul Pandey,Office Chair,Furniture,4,6500,4500,North,26000,8000
+2477,04-02-2024,Aisha Khan,Smartwatch,Electronics,3,7000,5000,South,21000,6000
+2478,22-05-2023,Kavita Joshi,Backpack,Accessories,2,900,600,South,1800,600
+2479,06-01-2024,Anjali Gupta,Mattress,Furniture,1,18000,13000,East,18000,5000
+2480,23-05-2023,Harish Kumar,Vacuum Cleaner,Appliances,5,6000,4500,West,30000,7500
+2481,02-04-2023,Meena Iyer,Keyboard,Electronics,4,900,600,East,3600,1200
+2482,20-12-2023,Neha Singh,Keyboard,Electronics,2,900,600,West,1800,600
+2483,18-11-2023,Pooja Shah,Fan,Appliances,2,1800,1200,North,3600,1200
+2484,15-10-2023,Vishal Gupta,Mattress,Furniture,3,18000,13000,West,54000,15000
+2485,03-08-2023,Neha Singh,Desk,Furniture,3,15000,11000,West,45000,12000
+2486,22-03-2024,Riya Kapoor,Backpack,Accessories,5,900,600,West,4500,1500
+2487,08-12-2023,Meena Iyer,Handbag,Accessories,5,2000,1200,East,10000,4000
+2488,20-02-2023,Suresh Rana,Laptop,Electronics,1,55000,48000,North,55000,7000
+2489,02-06-2023,Jatin Sharma,Table Lamp,Home Decor,1,1200,800,North,1200,400
+2490,05-07-2023,Deepak Yadav,Vacuum Cleaner,Appliances,5,6000,4500,South,30000,7500
+2491,04-03-2023,Yogesh Kumar,Blender,Appliances,5,1800,1300,North,9000,2500
+2492,09-07-2023,Vikram Singh,Cookware Set,Home Decor,4,3000,2000,West,12000,4000
+2493,05-05-2023,Aarti Sharma,Desk,Furniture,3,15000,11000,South,45000,12000
+2494,30-05-2023,Amit Patel,Smartphone,Electronics,1,22000,18000,North,22000,4000
+2495,10-11-2023,Suresh Rana,Table Lamp,Home Decor,3,1200,800,East,3600,1200
+2496,27-02-2023,Aditya Verma,Monitor,Electronics,3,12000,9000,North,36000,9000
+2497,08-12-2023,Nandita Rao,Cookware Set,Home Decor,5,3000,2000,East,15000,5000
+2498,01-11-2023,Karan Mehra,Desk Lamp,Home Decor,4,1500,900,North,6000,2400
+2499,29-06-2023,Himanshu Jain,Coffee Table,Furniture,2,8000,6000,East,16000,4000
